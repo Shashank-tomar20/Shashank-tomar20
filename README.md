@@ -17,14 +17,7 @@
 
 [![Shashank's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank-tomar20&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Shashank-tomar20)
 
-## 👨🏻‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Chaudhary-Rohan/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohan1789)
 <!-- Add other coding profiles as needed -->
-
-## ⚡ Technologies
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
